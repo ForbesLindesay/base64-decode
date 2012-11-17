@@ -1,4 +1,4 @@
-var utf8Encode = require('utf8-decode');
+var utf8Decode = require('utf8-decode');
 var keyStr = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=';
 
 module.exports = decode;
@@ -32,7 +32,7 @@ function decode(input) {
 
     }
 
-    output = utf8_decode(output);
+    output = utf8Decode(output);
 
     return output;
 
