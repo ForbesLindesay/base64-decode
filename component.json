@@ -2,7 +2,7 @@
   "name": "base64-decode",
   "repo": "ForbesLindesay/base64-decode",
   "description": "Decode base-64 strings with JavaScript",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": [],
   "dependencies": {
     "ForbesLindesay/utf8-decode": "*"
