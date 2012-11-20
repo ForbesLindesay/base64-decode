@@ -1,0 +1,20 @@
+{
+  "name": "base64-decode",
+  "version": "1.0.0",
+  "description": "Decode base-64 strings with JavaScript",
+  "main": "./server.js",
+  "scripts": {
+    "test": "component-install && component-build -s b && mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ForbesLindesay/base64-decode.git"
+  },
+  "author": "ForbesLindesay",
+  "license": "MIT",
+  "devDependencies": {
+    "component": "*",
+    "mocha": "*",
+    "better-assert": "*"
+  }
+}
