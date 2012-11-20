@@ -1,6 +1,6 @@
 {
   "name": "base64-decode",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Decode base-64 strings with JavaScript",
   "main": "./server.js",
   "scripts": {
