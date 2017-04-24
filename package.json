@@ -14,7 +14,7 @@
   "license": "MIT",
   "devDependencies": {
     "component": "*",
-    "mocha": "*",
+    "mocha": "3.2.0",
     "better-assert": "*"
   }
 }
