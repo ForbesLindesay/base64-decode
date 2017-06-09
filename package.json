@@ -13,7 +13,7 @@
   "author": "ForbesLindesay",
   "license": "MIT",
   "devDependencies": {
-    "component": "*",
+    "component": "1.0.2",
     "mocha": "*",
     "better-assert": "*"
   }
