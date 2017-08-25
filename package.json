@@ -15,6 +15,6 @@
   "devDependencies": {
     "component": "*",
     "mocha": "*",
-    "better-assert": "*"
+    "better-assert": ">=1.0.2"
   }
 }
